@@ -95,3 +95,26 @@ Si un repo n'est pas disponible, c'est qu'il est en privé et que je ne peux pas
 ## Hes d'été #2 et Semestre 5
 
 _Cours équivalents suivis lors d'un échange en Norvège._
+
+## Semestre 6
+
+<details>
+  <summary>Ouvrir 👋</summary>
+  
+  ### DMA
+  * [Labo 1 DMA](TODO)
+  * [Labo 2 DMA](TODO)
+  * [Labo 3 DMA](TODO)
+  * [Labo 4 DMA](TODO)
+  ### PLM
+  * [Projet + présentation](https://github.com/heig-vkaelin/plm)
+  ### SCALA
+  * [Exercices SCALA](https://github.com/heig-vkaelin/scala)
+  * [Labos SCALA](https://github.com/heig-vkaelin/scala-labos)
+  ### TAL
+  * [Labos TAL](https://github.com/heig-vkaelin/tal)
+  ### TB
+  * [Projet](https://gitlab.com/beescreens/beescreens/-/tree/main/apps/beeplace)
+  * [Rapport](https://github.com/heig-vkaelin/template-tb)
+
+</details>
