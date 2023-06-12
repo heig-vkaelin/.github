@@ -102,10 +102,11 @@ _Cours équivalents suivis lors d'un échange en Norvège._
   <summary>Ouvrir 👋</summary>
   
   ### DMA
-  * [Labo 1 DMA](TODO)
-  * [Labo 2 DMA](TODO)
-  * [Labo 3 DMA](TODO)
-  * [Labo 4 DMA](TODO)
+  * [Labo 1 DMA](https://github.com/BernardLhermite/DMA-lab1)
+  * [Labo 2 DMA](https://github.com/BernardLhermite/DMA-lab2)
+  * [Labo 3 DMA](https://github.com/BernardLhermite/DMA-lab3)
+  * [Labo 4 DMA](https://github.com/BernardLhermite/DMA-lab4)
+  * [Projet DMA](https://github.com/BernardLhermite/DMA-project)
   ### PLM
   * [Projet + présentations + rapports](https://github.com/heig-vkaelin/plm)
   ### SCALA
