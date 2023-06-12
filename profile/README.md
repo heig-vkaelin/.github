@@ -107,7 +107,7 @@ _Cours équivalents suivis lors d'un échange en Norvège._
   * [Labo 3 DMA](TODO)
   * [Labo 4 DMA](TODO)
   ### PLM
-  * [Projet + présentation](https://github.com/heig-vkaelin/plm)
+  * [Projet + présentations + rapports](https://github.com/heig-vkaelin/plm)
   ### SCALA
   * [Exercices SCALA](https://github.com/heig-vkaelin/scala)
   * [Labos SCALA](https://github.com/heig-vkaelin/scala-labos)
