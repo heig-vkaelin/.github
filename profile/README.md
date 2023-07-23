@@ -115,6 +115,7 @@ _Cours équivalents suivis lors d'un échange en Norvège._
   ### TAL
   * [Labos TAL](https://github.com/heig-vkaelin/tal)
   ### TB
+  * [Application](https://place.beescreens.ch)
   * [Projet](https://gitlab.com/beescreens/beescreens/-/tree/main/apps/beeplace)
   * [Rapport](https://github.com/heig-vkaelin/template-tb)
 
